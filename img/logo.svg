@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="150"
+   viewBox="0 0 150 150"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="D:\projects\spart\public\stripe.png"
+   inkscape:export-xdpi="76.980003"
+   inkscape:export-ydpi="76.980003">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-3.8197093"
+     inkscape:cy="59.267726"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-902.36216)">
+    <rect
+       style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4144"
+       width="149.64285"
+       height="149.64285"
+       x="0.35713848"
+       y="902.7193"
+       inkscape:export-filename="D:\projects\spart\public\stripe.png"
+       inkscape:export-xdpi="76.980003"
+       inkscape:export-ydpi="76.980003" />
+    <g
+       id="g4151"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.30897055,0,0,0.30897055,-43.251024,838.41304)"
+       inkscape:export-filename="D:\projects\spart\public\stripe.png"
+       inkscape:export-xdpi="76.980003"
+       inkscape:export-ydpi="76.980003">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4147"
+         d="m 277.14286,271.64792 60,71.42857 c 77.45857,-19.46652 132.67684,-4.18257 149.28571,71.42857 3.57422,33.14868 5.9509,66.94219 33.57143,87.14286 23.32038,21.06095 44.15932,17.30742 65.71429,20.71428 l 1.42857,-22.14285 c -84.14245,-8.21409 -56.9533,-85.72761 -67.85714,-141.42857 -1.3025,-17.46346 -21.08268,-51.82246 -52.85715,-75 -57.9065,-23.76483 -121.87214,-24.50492 -189.28571,-12.14286 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4149"
+         d="m 252.85714,500.93363 22.51795,0.16588 31.76777,-64.45159 74.28571,-1.42857 c -12.35229,21.3479 -26.47266,41.3945 -70.71428,27.85714 l -66.42858,145 c 42.28193,-6.15256 76.30336,3.62583 143.57143,-50.71429 C 401.69194,536.2117 415.51857,515.05841 500,518.07649 l -34.28571,-37.85714 c 9.35083,-39.70668 15.56653,-79.30525 -29.28572,-117.14286 -12.51869,-7.83945 -85.98988,-37.10626 -137.14286,30 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
