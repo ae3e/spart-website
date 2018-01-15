@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="-3.8197093"
-     inkscape:cy="59.267726"
+     inkscape:zoom="1.4"
+     inkscape:cx="-29.80409"
+     inkscape:cy="93.511268"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,24 +68,97 @@
        inkscape:export-xdpi="76.980003"
        inkscape:export-ydpi="76.980003" />
     <g
-       id="g4151"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.30897055,0,0,0.30897055,-43.251024,838.41304)"
-       inkscape:export-filename="D:\projects\spart\public\stripe.png"
-       inkscape:export-xdpi="76.980003"
-       inkscape:export-ydpi="76.980003">
-      <path
-         sodipodi:nodetypes="ccccccccc"
-         inkscape:connector-curvature="0"
+       id="g4187">
+      <circle
+         inkscape:export-filename="D:\projects\spart\public\favicon.png"
+         inkscape:export-ydpi="20.756618"
+         inkscape:export-xdpi="20.756618"
+         r="20.756973"
+         cy="1025.6711"
+         cx="39.174507"
+         id="path4145"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-filename="D:\projects\spart\public\favicon.png"
+         inkscape:export-ydpi="20.756618"
+         inkscape:export-xdpi="20.756618"
+         r="9.9024096"
+         cy="977.49207"
+         cx="121.25025"
          id="path4147"
-         d="m 277.14286,271.64792 60,71.42857 c 77.45857,-19.46652 132.67684,-4.18257 149.28571,71.42857 3.57422,33.14868 5.9509,66.94219 33.57143,87.14286 23.32038,21.06095 44.15932,17.30742 65.71429,20.71428 l 1.42857,-22.14285 c -84.14245,-8.21409 -56.9533,-85.72761 -67.85714,-141.42857 -1.3025,-17.46346 -21.08268,-51.82246 -52.85715,-75 -57.9065,-23.76483 -121.87214,-24.50492 -189.28571,-12.14286 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccccccccc"
-         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-filename="D:\projects\spart\public\favicon.png"
+         inkscape:export-ydpi="20.756618"
+         inkscape:export-xdpi="20.756618"
+         r="14.282321"
+         cy="959.40118"
+         cx="62.407089"
          id="path4149"
-         d="m 252.85714,500.93363 22.51795,0.16588 31.76777,-64.45159 74.28571,-1.42857 c -12.35229,21.3479 -26.47266,41.3945 -70.71428,27.85714 l -66.42858,145 c 42.28193,-6.15256 76.30336,3.62583 143.57143,-50.71429 C 401.69194,536.2117 415.51857,515.05841 500,518.07649 l -34.28571,-37.85714 c 9.35083,-39.70668 15.56653,-79.30525 -29.28572,-117.14286 -12.51869,-7.83945 -85.98988,-37.10626 -137.14286,30 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-filename="D:\projects\spart\public\favicon.png"
+         inkscape:export-ydpi="20.756618"
+         inkscape:export-xdpi="20.756618"
+         r="9.9024096"
+         cy="918.45856"
+         cx="106.01577"
+         id="path4147-4"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-filename="D:\projects\spart\public\favicon.png"
+         inkscape:export-ydpi="20.756618"
+         inkscape:export-xdpi="20.756618"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4166"
+         d="m 121.74465,977.28817 -83.141436,48.95443 23.9943,-66.65097 58.968246,17.14078 -15.45478,-58.65473"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <circle
+       style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4145-5"
+       cx="-164.8963"
+       cy="1030.5413"
+       r="20.756973"
+       inkscape:export-xdpi="20.756618"
+       inkscape:export-ydpi="20.756618"
+       inkscape:export-filename="D:\projects\spart\public\favicon.png" />
+    <circle
+       style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4147-9"
+       cx="-82.820564"
+       cy="982.36212"
+       r="9.9024096"
+       inkscape:export-xdpi="20.756618"
+       inkscape:export-ydpi="20.756618"
+       inkscape:export-filename="D:\projects\spart\public\favicon.png" />
+    <circle
+       style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4149-2"
+       cx="-141.66373"
+       cy="964.27118"
+       r="14.282321"
+       inkscape:export-xdpi="20.756618"
+       inkscape:export-ydpi="20.756618"
+       inkscape:export-filename="D:\projects\spart\public\favicon.png" />
+    <circle
+       style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4147-4-7"
+       cx="-98.055046"
+       cy="923.32849"
+       r="9.9024096"
+       inkscape:export-xdpi="20.756618"
+       inkscape:export-ydpi="20.756618"
+       inkscape:export-filename="D:\projects\spart\public\favicon.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2196f3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="m -82.326154,982.15814 -83.141436,48.95446 23.9943,-66.65096 58.968246,17.1408 -15.45479,-58.6548"
+       id="path4166-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="20.756618"
+       inkscape:export-ydpi="20.756618"
+       inkscape:export-filename="D:\projects\spart\public\favicon.png" />
   </g>
 </svg>
