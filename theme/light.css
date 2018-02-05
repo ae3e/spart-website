@@ -44,3 +44,8 @@
 .text {
 	fill: #000;
 }
+
+.day {
+	fill: #444;
+	stroke: #fff;
+}
