@@ -35,10 +35,12 @@
 
 #title {
 	fill: #000;
+	font-size: 200%;
 }
 
 #subtitle {
 	fill: #000;
+	font-size: 120%;
 }
 
 .text {
