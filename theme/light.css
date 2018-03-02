@@ -27,6 +27,12 @@
 	stroke: #444;
 }
 
+.waterway {
+	opacity: 1;
+	fill:none;
+	stroke: #444;
+}
+
 #textRect {
 	opacity: 0.95;
 	fill:#FFF;
@@ -50,4 +56,16 @@
 .day {
 	fill: #444;
 	stroke: #fff;
+}
+
+.axis line {
+	stroke: #000;
+}
+
+.axis path {
+	stroke: #000;
+}
+
+.axis text {
+	fill: #000;
 }
