@@ -1,0 +1,8 @@
+{
+    "routes": {
+        "/static/*": "/static/",
+        "/img/*": "/img/",
+        "/famousraces/*": "/famousraces/",
+        "/**": "index.html"
+    }
+}
