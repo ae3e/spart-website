@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Poster (Digital)",
+        "price": 5
+    },
+    {
+        "id": 2,
+        "title": "Poster (Paper)",
+        "price": 35
+    },
+    {
+        "id": 3,
+        "title": "Gift card (Paper poster)",
+        "price": 35
+    },
+    {
+        "id": 4,
+        "title": "Gift card (Digital poster)",
+        "price": 5
+    }
+]
